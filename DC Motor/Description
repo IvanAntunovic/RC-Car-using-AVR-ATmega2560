@@ -1,0 +1,5 @@
+* Title: C++ file for controlling 4 DC Motors using 2 L293D motor drivers
+* and 74HCT595 shift register
+* Author: Ivan Antunovic
+* Target: AVR ATmega2560
+* This software is free to use and share
